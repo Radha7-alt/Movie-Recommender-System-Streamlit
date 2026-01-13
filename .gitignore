@@ -1,0 +1,9 @@
+movieenv/
+venv/
+similarity.pkl
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
